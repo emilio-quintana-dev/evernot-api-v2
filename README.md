@@ -10,5 +10,5 @@ This is one of the two backends I built for this project. I built this backend a
 - Node, Express and MongoDB.
 
 # Libraries/packages used:
-- Config, compression, bcrypt, helment, joi, jsonwebtoken, lodash and mongoose.
+- Jest, Config, compression, bcrypt, helment, joi, jsonwebtoken, lodash and mongoose.
 

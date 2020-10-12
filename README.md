@@ -1,4 +1,6 @@
-This is one of the two backends I built for this project. I built this backend as a way for me to learn Node, Express, MongoDB and unit testing. Feel free to check out the [frontend](https://github.com/emilio-quintana-dev/task-io-client-v1) and the [second backend] (https://github.com/emilio-quintana-dev/task-io-api-v2) as well.
+This is one of the two backends I built for this project. I built this backend as a way for me to learn Node, Express, MongoDB and unit testing. Feel free to check out the [frontend](https://github.com/emilio-quintana-dev/task-io-client-v1) and the [second backend](https://github.com/emilio-quintana-dev/task-io-api-v2) as well.
+
+Try the [live demo](https://distracted-wing-b65893.netlify.app/)!
 
 # Features
 - Used bcrypt to encrypt user's passwords.
